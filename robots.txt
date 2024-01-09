@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sabtubet.dosbox-x.com/sitemap.xml
